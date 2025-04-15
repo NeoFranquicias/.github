@@ -8,20 +8,11 @@ NeoFranquicias es una iniciativa que busca centralizar y digitalizar la administ
 
 ## 📁 Repositorios Destacados
 
-Aquí alojaremos los distintos proyectos y módulos que forman parte del sistema NeoFranquicias. Algunos ejemplos de lo que puedes encontrar:
-
-- `app-backend`: Backend RESTful desarrollado con Laravel.
-- `app-frontend`: Interfaz de usuario en React + Tailwind CSS.
-- `mobile-app`: Aplicación móvil (futura implementación).
-- `documentation`: Documentación técnica y funcional del proyecto.
-- `branding`: Archivos de identidad visual (logos, fuentes, paleta de colores, etc).
+Aquí alojaremos los distintos proyectos y módulos que forman parte del sistema NeoFranquicias. 
 
 ## 🧩 Arquitectura Tecnológica
 
-- **Frontend:** React.js + Tailwind CSS
-- **Backend:** PHP (Laravel)
-- **Base de Datos:** MySQL / MariaDB
-- **Otros:** Docker, GitHub Actions, CI/CD
+Aquí encontrarás las arquitecturas que utilizamos en nuestro sistema.
 
 ## 👥 Equipo
 
